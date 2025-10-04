@@ -23,12 +23,6 @@ It enables the creation of advanced, multi-type charts combining bar, line, and 
 
 </br>
 
-# Usage
-Create an HTML page with a <canvas> element to render the chart:
-Eg : <canvas id="myChart"></canvas>
-
-</br>
-
 # Demo
 https://github.com/user-attachments/assets/149f60df-57c1-4504-896d-bd4ea09d911d
 
