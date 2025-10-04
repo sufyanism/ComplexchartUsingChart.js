@@ -22,6 +22,8 @@ It enables the creation of advanced, multi-type charts combining bar, line, and 
 `<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>`  </br>
 `<script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>`
 
+</br>
+
 # Usage
 Create an HTML page with a <canvas> element to render the chart:
 Eg : <canvas id="myChart"></canvas>
@@ -29,7 +31,6 @@ Eg : <canvas id="myChart"></canvas>
 </br>
 
 # Demo
-
 https://github.com/user-attachments/assets/149f60df-57c1-4504-896d-bd4ea09d911d
 
 ![ComplexchartUsingChart js](https://github.com/user-attachments/assets/f03944db-ceda-4420-ae69-9522bff2240e)
