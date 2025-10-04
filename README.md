@@ -14,7 +14,7 @@ It enables the creation of advanced, multi-type charts combining bar, line, and 
  </br>
 
 # Dependencies Used
-1. [Chart.js)]([https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js](https://cdn.jsdelivr.net/npm/chart.js)
+1. [Chart.js](https://cdn.jsdelivr.net/npm/chart.js)
 2. [SheetJS (xlsx)](https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js)
 
 
